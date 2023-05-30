@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Juan Ramirez</h1>
 <h3 align="center">A passionate Data Science Intern from Colombia</h3>
 
-- 🔭 I’m currently working on [Sleep Cycle Analizer](https://github.com/JRamirex/SleepCycleAnalyzer)
+- 🚀 Passionate Computer Science graduate with expertise in Python, Java, SQL, and Swift, eager to kickstart a career in Data Science. 💻
 
-- 🌱 I’m currently learning **Data Science with DataCamp**
+- 🎓 Recently completed a Bachelor's degree in Computer Science, specializing in data analysis and machine learning. Excited to apply my knowledge and skills in a real-world setting as a Data Scientist intern.
 
-- 👨‍💻 All of my projects are available at [https://github.com/JRamirex](https://github.com/JRamirex)
+- 🔬 Proficient in popular data science libraries and frameworks such as Pandas, Matplotlib, Numpy, Seaborn, and Scikit-learn. Skilled in extracting insights, visualizing data, and building predictive models.
 
-- 📫 How to reach me **nananjuuan@gmail.com**
+- 💡 A problem solver at heart, I thrive on leveraging data-driven approaches to uncover hidden patterns and drive meaningful business decisions. Passionate about the intersection of technology, data, and innovation.
 
-- ⚡ Fun fact **I am also a professional video editor. I have worked with Premiere Pro over 7 years.**
+- 🌍 Looking forward to leveraging my skills and contributing to impactful projects in the field of Data Science. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
