@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JRamirex](https://github.com/JRamirex)
 
-- 📫 How to reach me **nananjuuan@uniandes.edu.co**
+- 📫 How to reach me **nananjuuan@gmail.com**
 
 - ⚡ Fun fact **I am also a professional video editor. I have worked with Premiere Pro over 7 years.**
 
