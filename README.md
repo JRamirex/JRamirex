@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juan Ramirez</h1>
 <h3 align="center">A passionate Data Science Intern from Colombia</h3>
 
-- 🚀 Passionate Computer Science graduate with expertise in Python, Java, SQL, and Swift, eager to kickstart a career in Data Science. 💻
+- 🚀 Passionate Computer Science graduate with expertise in Python, Jupyter, SQL, Tableau, Power Bi, Java, and Swift, currently working at a Unicorn 🦄 as a data scientist Junior at Habi 🏚️.
 
 - 🎓 Recently completed a Bachelor's degree in Computer Science, specializing in data analysis and machine learning. Excited to apply my knowledge and skills in a real-world setting as a Data Scientist intern.
 
-- 🔬 Proficient in popular data science libraries and frameworks such as Pandas, Matplotlib, Numpy, Seaborn, and Scikit-learn. Skilled in extracting insights, visualizing data, and building predictive models.
+- 🔬 Proficient in popular data science libraries and frameworks such as Pandas, Matplotlib, Numpy, Seaborn, Scikit-learn and lots of geospacial tools such as geopandas or keplgergl. Skilled in processing big amounts of data and extracting insights, building algorithms for complex problems and highly skilled in business presentations (Winner of two startup contest at my university).
 
 - 💡 A problem solver at heart, I thrive on leveraging data-driven approaches to uncover hidden patterns and drive meaningful business decisions. Passionate about the intersection of technology, data, and innovation.
 
@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/juan-sebastián-ramírez-beltrán-6b4767218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-sebastián-ramírez-beltrán-6b4767218" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15283654" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15283654" height="30" width="40" /></a>
-<a href="https://instagram.com/juan_se_ramirez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juan_se_ramirez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
